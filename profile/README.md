@@ -43,7 +43,6 @@ Games are where we place these capabilities into users hands first. We aim to bu
 
 - **Founded:** July 2024
 - **Location:** Shenzhen, China
-- **Team Background:** ByteDance alumni
 
 ---
 
